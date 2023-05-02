@@ -1,0 +1,13 @@
+#-----------------------------------------------------------
+# Vivado v2022.1 (64-bit)
+# SW Build 3526262 on Mon Apr 18 15:47:01 MDT 2022
+# IP Build 3524634 on Mon Apr 18 20:55:01 MDT 2022
+# Start of session at: Fri Sep 23 13:56:02 2022
+# Process ID: 11873
+# Current directory: /home/sy/workspace_dhjoo/Ccompiled_hw_small/outdir/nv_small/vmod/nvdla/cacc
+# Command line: vivado
+# Log file: /home/sy/workspace_dhjoo/Ccompiled_hw_small/outdir/nv_small/vmod/nvdla/cacc/vivado.log
+# Journal file: /home/sy/workspace_dhjoo/Ccompiled_hw_small/outdir/nv_small/vmod/nvdla/cacc/vivado.jou
+# Running On: Gaia, OS: Linux, CPU Frequency: 1237.383 MHz, CPU Physical cores: 16, Host memory: 135143 MB
+#-----------------------------------------------------------
+start_gui

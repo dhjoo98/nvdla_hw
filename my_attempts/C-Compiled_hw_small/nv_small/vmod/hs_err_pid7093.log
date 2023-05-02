@@ -1,0 +1,12 @@
+#
+# An unexpected error has occurred (11)
+#
+Stack:
+/home/sy/Downloads/Vivado/2022.1/tps/lnx64/jre11.0.11_9/lib//server/libjvm.so(+0xbefecb) [0x7fe11da27ecb]
+/home/sy/Downloads/Vivado/2022.1/tps/lnx64/jre11.0.11_9/lib//server/libjvm.so(JVM_handle_linux_signal+0xd1) [0x7fe11da2ec81]
+/home/sy/Downloads/Vivado/2022.1/tps/lnx64/jre11.0.11_9/lib//server/libjvm.so(+0xbead23) [0x7fe11da22d23]
+/lib/x86_64-linux-gnu/libc.so.6(+0x3ef20) [0x7fe1763eef20]
+/home/sy/Downloads/Vivado/2022.1/lib/lnx64.o/librdi_filemgmt.so(HDDAFilteredSrcIter::getNext_()+0x74) [0x7fe13d09b084]
+/home/sy/Downloads/Vivado/2022.1/lib/lnx64.o/librdi_filemgmt.so(HDDAFilteredSrcIter::next()+0x11) [0x7fe13d09b621]
+/home/sy/Downloads/Vivado/2022.1/lib/lnx64.o/librdi_filemgmt.so(Java_ui_data_design_dai_SrcFileIter_1next+0x54) [0x7fe13d145f34]
+[0x7fe10ce69c84]
